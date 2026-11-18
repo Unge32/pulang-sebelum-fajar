@@ -1,0 +1,4 @@
+node_modules/
+out/
+dossier.json
+.DS_Store
